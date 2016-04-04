@@ -1,0 +1,75 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+
+<html>
+<head>
+<title>404 Page Not found - Just Eat</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<link rel = "stylesheet" type="text/css" href="/assets/css/website/reset.css"/>
+<link rel = "stylesheet" type="text/css" href="/assets/css/website/layout.css"/>
+<link rel = "stylesheet" type="text/css" href="/assets/css/website/jqueryui.css"/>
+<link rel = "stylesheet" type="text/css" href="/assets/css/website/error.css"/>
+<link rel="shortcut icon" href="/assets/images/site/favicon.gif"/>
+<script type="text/javascript" src="/assets/js/common/3rd/jquery/jquery.min.js"></script>
+</head>
+<body>
+<div id="l_head_strip">
+    <div class="left">
+    </div>
+    <div class="right">
+    </div>
+</div>
+<div id="l_header">
+    <div class="left">
+        <a href="/" title="Just Eat home"><img alt="Just Eat logo" src="/assets/images/site/india-logo.png" alt="Bangalore logo"/></a>
+    </div>
+    <div class="mid">
+        <div id="l_header_bang">
+            Log on for a bite!
+        </div>
+    </div>
+    <div class="right">
+        <div class="h-links">
+            <a href="/">Home</a> |
+            <a href="/blog" onclick="window.open('/blog');return false;">Blog</a> |
+            <a title="view user submitted recipes" href="/recipes">Recipes</a> |
+            <a title="view articles on food diet and health" href="/articles">Articles</a> |
+        </div>
+        <div class="h-signin">
+            <a title="Sign in access advanced features" href="/user/login" class="signin">Sign In</a><br/>
+        </div>
+    </div>
+    <div class="cboth"></div>
+</div>
+<div class="ajax-error hidden"></div>
+<div id="l_body">
+    <div class="general-error">
+        <div class="left">
+            <img src="/assets/images/site/brain-standing.jpg" alt="brain" width="200"/>
+        </div>
+        <div class="right">
+            <div class="fourofour"><strong>404 Error</strong>&nbsp;(who came up with that term!)</div>
+            <h1>Sorry this page does not exist!</h1>
+            <div class="message">
+                It may be possible that you have mistyped the URL, or stupid search engines forgot to update their index. <br/><br/>Either ways, we are sure you can find what you were looking for by using our super easy restaurant discovery tools at the <a href="/">Home page</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="cboth"></div>
+<div id="l_footer">
+    <div class="links">
+        <a rel="nofollow" href="/s/about">About Us</a> |
+        <a href="/help">Help</a> |
+        <a href="/faq1">FAQ (Bangalore, Mumbai and NCR)</a>|
+        <a href="/faq2">FAQ (other cities)</a> |
+        <a href="/terms">Terms &amp; Conditions</a> |
+        <a href="/privacy">Privacy</a>
+    </div>
+    <div class="copyright">Copyright &copy;2009 Achindra Online Marketing Pvt. Ltd. All rights reserved</div>
+    <div class="browser">This site is best viewed with Mozilla Firefox 3.5+ or Google Chrome 4.0+ at a minimum screen resolution of 1024x768 with cookies and javascript enabled</div>
+</div>
+</body>
+</html>
